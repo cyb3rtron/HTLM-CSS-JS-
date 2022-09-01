@@ -1,0 +1,18 @@
+RewriteEngine on
+RewriteEngineRule ^Main_Page?$ index.html
+RewriteEngineRule ^best-awards?$ best-awards.html
+RewriteEngineRule ^Geographical_Information?$ bhougolik.html
+RewriteEngineRule ^Image_Gallery?$ chayachitra.html
+RewriteEngineRule ^contact?$ contact.html
+RewriteEngineRule ^Groups_Of_The_Villege?$ mandal.html
+RewriteEngineRule ^Map_Of_The_Villege?$ nakasha.html
+RewriteEngineRule ^other-destination?$ other-destination.html
+RewriteEngineRule ^other-information?$ other-information.html
+RewriteEngineRule ^Respected_People?$ pramukh.html
+RewriteEngineRule ^Traditional_Information?$ sanskrutik.html
+RewriteEngineRule ^Educational_Information?$ shikshan.html
+RewriteEngineRule ^temples-of-villege?$ temples-of-villege.html
+RewriteEngineRule ^traditional-functions?$ traditional-functions.html
+
+
+
